@@ -14,7 +14,7 @@ import {
   Link,
   Switch,
   Route
-} from 'react-router-dom';
+ } from 'react-router-dom';
 
 # How do I create "pages" with react router?
    Create some components, for example:
